@@ -1,0 +1,23 @@
+{
+  "name": "restaurant.page",
+  "version": "1.0.0",
+  "description": "This is an Odin Project project to practice DOM manipulation.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sippinmead/restaurant.page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sippinmead/restaurant.page/issues"
+  },
+  "homepage": "https://github.com/sippinmead/restaurant.page#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
